@@ -1,0 +1,133 @@
+[
+    {
+        "name": "Cardano",
+        "symbol": "₳",
+        "code": "ADA"
+    },
+    {
+        "name": "Algorand",
+        "symbol": "Ⱥ",
+        "code": "ALGO"
+    },
+    {
+        "name": "Cosmos",
+        "symbol": "⚛",
+        "code": "ATOM"
+    },
+    {
+        "name": "Basic Attention Token",
+        "symbol": "⟁",
+        "code": "BAT"
+    },
+    {
+        "name": "Bitcoin Cash",
+        "symbol": "฿",
+        "code": "BCH"
+    },
+    {
+        "name": "Bitcoin CashSV",
+        "symbol": "ℬ",
+        "code": "BSV"
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "₿",
+        "code": "BTC",
+        "alternateCode":"XBT"
+    },
+    {
+        "name": "Dash",
+        "symbol": "Đ",
+        "code": "DASH"
+    },
+    {
+        "name": "Polkadot",
+        "symbol": "●",
+        "code": "DOT"
+    },
+    {
+        "name": "EOS",
+        "symbol": "Ȅ",
+        "code": "EOS"
+    },
+    {
+        "name": "Ethereum Classic",
+        "symbol": "ξ",
+        "code": "ETC"
+    },
+    {
+        "name": "Ethereum",
+        "symbol": "Ξ",
+        "code": "ETH"
+    },
+    {
+        "name": "Chainlink",
+        "symbol": "⬡",
+        "code": "LINK"
+    },
+    {
+        "name": "Litecoin",
+        "symbol": "Ł",
+        "code": "LTC"
+    },
+    {
+        "name": "Decentraland",
+        "symbol": "Ɯ",
+        "code": "MANA"
+    },
+    {
+        "name": "PAX Gold",
+        "symbol": "ⓟ",
+        "code": "PAXG"
+    },
+    {
+        "name": "Quantum",
+        "symbol": "ℚ",
+        "code": "QTUM"
+    },
+    {
+        "name": "US Dollar",
+        "symbol": "$",
+        "code": "USD"
+    },
+    {
+        "name": "USD Coin",
+        "symbol": "ⓒ",
+        "code": "USDC"
+    },
+    {
+        "name": "USD Tether",
+        "symbol": "₮",
+        "code": "USDT"
+    },
+    {
+        "name": "Dogecoin",
+        "symbol": "Đ",
+        "code": "XDG"
+    },
+    {
+        "name": "Lumen",
+        "symbol": "*",
+        "code": "XLM"
+    },
+    {
+        "name": "Monero",
+        "symbol": "ɱ",
+        "code": "XMR"
+    },
+    {
+        "name": "Ripple",
+        "symbol": "Ʀ",
+        "code": "XRP"
+    },
+    {
+        "name": "Tezos",
+        "symbol": "ꜩ",
+        "code": "XTZ"
+    },
+    {
+        "name": "ZCash",
+        "symbol": "ⓩ",
+        "code": "ZEC"
+    }
+]
